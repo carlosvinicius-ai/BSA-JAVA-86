@@ -12,8 +12,8 @@ Todo arquivo disponível aqui, tem todo acesso liberado aos alunos
 
 ## 🎯 Conhecimento adquiridos
 
-### [x] Lógica de Programação
-- [x] Tipos Primitivos
-- [ ] Estrutura de Decisão
-- [ ] Estrutura de Repetição
-- [ ] Tratamento de Erro
+### 📝 Lógica de Programação
+- ✅ Tipos Primitivos
+- 🔒️ Estrutura de Decisão
+- 🔒️ Estrutura de Repetição
+- 🔒️ Tratamento de Erro
