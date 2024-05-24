@@ -23,7 +23,7 @@ public class Exercicio05Idade {
 
         System.out.printf("Com a data atual %s você tem %d anos",data, idade);
 
-
+        sc.close();
 
     }
 

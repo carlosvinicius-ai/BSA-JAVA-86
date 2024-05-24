@@ -38,6 +38,8 @@ public class Exercicio03Conversor {
         System.out.printf("A temperatura %.1fº em Rankine (2ª fórmula): %.1fº\n", celsius, rankine2);
 
 //        System.out.println("\\n"); para mostrar o \n escrito na linha
+
+        sc.close();
     }
 
 }

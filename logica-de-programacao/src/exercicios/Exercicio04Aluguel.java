@@ -28,6 +28,8 @@ public class Exercicio04Aluguel {
 
         System.out.printf("Você irá pagar para a empresa R$%.2f pelo aluguel do carro", aluguelAPagar);
 
+        sc.close();
+
     }
 
 }

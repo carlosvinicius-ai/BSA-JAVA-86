@@ -30,6 +30,7 @@ public class Exercicio07Media {
 
         System.out.printf("Querido Aluno %s do RA %s sua média foi igual a %.2f. %nObrigado pela atenção!", nome, RA, media);
 
+        sc.close();
     }
 
 }
