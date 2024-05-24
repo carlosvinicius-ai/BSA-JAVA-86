@@ -13,7 +13,7 @@ Todo arquivo disponível aqui, tem todo acesso liberado aos alunos
 ## 🎯 Conhecimento adquiridos
 
 ### 📝 Lógica de Programação
-- ✅ Tipos Primitivos
+- ✅ [Tipos Primitivos](https://github.com/carlosvinicius-ai/BSA-JAVA-86/tree/main/logica-de-programacao)
 - 🔒️ Estrutura de Decisão
 - 🔒️ Estrutura de Repetição
 - 🔒️ Tratamento de Erro
